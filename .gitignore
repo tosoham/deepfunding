@@ -207,3 +207,13 @@ marimo/_lsp/
 __marimo__/
 
 dataset_*/
+node_modules/
+/build
+.DS_Store
+.env
+.vscode/
+data/training_data/*.csv
+data/scores/*.csv
+data/exports/*.csv
+!**/.gitkeep
+npm-debug.log*
